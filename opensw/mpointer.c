@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//eclipse-git file kimkyungwook
 void func(int *p);
 void func2(int **p);
 void func3(int ***p);
